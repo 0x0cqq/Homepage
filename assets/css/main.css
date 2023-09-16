@@ -2752,7 +2752,7 @@ input, select, textarea {
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 85%;
 			}
 
 			#header > header h1 {
