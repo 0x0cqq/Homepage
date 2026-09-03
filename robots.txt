@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: /cv.pdf
-Disallow: /cv_chinese.pdf
+Disallow: /cv_cn.pdf
+Disallow: /cv_en.pdf
+
+Sitemap: https://www.cqqqwq.com/sitemap.xml
